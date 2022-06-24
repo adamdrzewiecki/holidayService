@@ -1,0 +1,6 @@
+logging:
+  level:
+    com.adamdr.holidayservice: DEBUG
+
+
+holidaysApiUrl: https://date.nager.at/api/v3/PublicHolidays/
