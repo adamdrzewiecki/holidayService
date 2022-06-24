@@ -12,5 +12,5 @@ http://localhost:8080/swagger-ui/#/holiday-information-controller/getNextHoliday
 to get information about next holiday after the given date that will happen on the same day in both countries.
 ***
 Test user credentials:  
-###username: swagger-ui
-###password: swagger-ui
+### username: swagger-ui
+### password: swagger-ui
